@@ -1,4 +1,3 @@
-#Angel Feliciano Portalatin
 account_name = input('Please enter the name of your account: ')
 initial_balance = float(input('Please enter the starting balance: '))
 total_balance = 0.0 + round(initial_balance, 2)
